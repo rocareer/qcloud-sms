@@ -15,5 +15,6 @@
         "psr-4": {
             "Rocareer\\QcloudSms\\": "src/"
         }
-    }
+    },
+    "version": "1.0"
 }
