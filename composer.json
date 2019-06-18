@@ -1,0 +1,19 @@
+{
+    "name": "rocareer/qcloud-sms",
+    "description": "rocareer/qcloud-sms",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Albert",
+            "email": "albert@rocareer.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Rocareer\\QcloudSms\\": "src/"
+        }
+    }
+}
